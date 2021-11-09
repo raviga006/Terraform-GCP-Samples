@@ -1,0 +1,14 @@
+# Terrafrom GCP 
+
+# These all samples are built for learning purpose only ,If you have any quieres please contact me  ravi.sapram@gmail.com
+
+#Follow the bellow steps to deploy Terrafrom in GCP 
+
+##Create Terrafrom project folder in local host
+##Download Json file from our GCP account 
+##Download Terrafrom samples file from git to local 
+##Install Terrafrom in local host 
+##Edit --> credentials,project,region,zone --> as per your project variables. 
+
+##Built is ready 🌩🌩🌩🌩
+Contact :
